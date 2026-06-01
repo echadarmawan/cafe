@@ -5,7 +5,7 @@
                 <ul class="navbar-nav">
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            <?php echo $result['email']; ?>
+                            <?php echo $_SESSION['pelayan']; ?>
                         </a>
                         <ul class="dropdown-menu dropdown-menu-end mt-2">
                             <li><a class="dropdown-item" href="#"><i class="bi bi-person-bounding-box"></i> Profile</a></li>
@@ -28,7 +28,7 @@
                 </div>
                 <div class="modal-body">
                     <form class="needs-validation" novalidate action="services\change_password.php" method="POST">
-                        <input type="hidden" name="id" value="<?= $row['id']; ?>">
+                        <input type="hidden" name="id" value="<?= $_SESSION['id_user'] ?>">
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="form-floating mb-3">

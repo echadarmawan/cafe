@@ -6,14 +6,14 @@
             } else if (isset($_GET['x']) && $_GET['x']=='order') {
                 $page = "order.php";
                 include "main.php";
+            } else if (isset($_GET['x']) && $_GET['x']=='detail') {
+                $page = "detail.php";
+                include "main.php";
             } else if (isset($_GET['x']) && $_GET['x']=='menu') {
                 $page = "menu.php";
                 include "main.php";
             } else if (isset($_GET['x']) && $_GET['x']=='category') {
                 $page = "category.php";
-                include "main.php";
-            } else if (isset($_GET['x']) && $_GET['x']=='customer') {
-                $page = "customer.php";
                 include "main.php";
             } else if (isset($_GET['x']) && $_GET['x']=='report') {
                 if ($_SESSION["level_cafe"] == 1) {

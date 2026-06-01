@@ -1,12 +1,267 @@
-            <div class="col-lg-9 mt-2">
-                <div class="card">
-                    <div class="card-header">
-                        Order
-                    </div>
-                    <div class="card-body">
-                        <h5 class="card-title">Ini adalah bagian order</h5>
-                        <p class="card-text">With supporting text below as a natural lead-in to additional content. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rem provident nemo natus quidem officiis temporibus quasi deserunt dignissimos quaerat voluptate aliquam ipsam quas officia reiciendis laudantium error, vitae odio maxime?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse dignissimos tenetur fugiat quas consectetur ea facere fugit laboriosam perspiciatis, quia culpa soluta totam omnis, dicta earum error consequuntur ducimus odio aliquid ipsa enim facilis. Totam eum doloribus tempore et sint ex, sequi nisi beatae explicabo, dolor exercitationem voluptas nihil quas corrupti fuga soluta dicta odio temporibus distinctio, obcaecati rerum suscipit molestiae! Cupiditate quo consequuntur eos ratione nostrum, accusamus iusto ducimus minima minus est culpa reprehenderit aut aliquam dolorum nobis neque veniam voluptatem numquam beatae dignissimos officiis. Possimus, tempore! Reiciendis explicabo corporis consequuntur. Corporis ab eos animi voluptatem ipsum enim, rem corrupti eligendi quibusdam. Eum molestiae molestias accusamus error voluptas adipisci impedit sit illum quasi laborum, architecto, numquam, nihil voluptatum rem quod. Esse enim repudiandae quaerat necessitatibus accusamus veniam nemo voluptatem saepe maiores voluptas. Fugiat doloribus recusandae, temporibus, maiores blanditiis aspernatur quo eaque debitis eum ipsam, rerum vel! Voluptatem saepe iste vel assumenda, omnis, eligendi fuga deserunt ullam quasi voluptatibus nostrum architecto commodi facere doloribus corrupti distinctio! Molestias unde temporibus sapiente facilis explicabo? Quis eligendi doloremque veritatis qui vero odit, non accusantium voluptatem at, incidunt fuga esse corporis, ipsum suscipit praesentium libero vel enim porro rerum. Eveniet dolorem temporibus optio nobis cumque iure sapiente laboriosam numquam molestiae aliquam accusamus, provident dicta, consectetur in! Necessitatibus facere ducimus officiis mollitia, corrupti odit ipsum earum itaque quibusdam nesciunt ipsa doloremque vel? Eum, eveniet! Perspiciatis incidunt a corrupti, cumque similique sequi. Tempore iusto ad ducimus commodi ipsum libero deserunt ullam laudantium repellat, facere dolores possimus asperiores repellendus suscipit soluta, at culpa voluptatibus? Molestias praesentium exercitationem dolorem consequuntur asperiores nam quaerat similique deleniti, inventore odit nemo fugit nesciunt natus, facere, explicabo eveniet accusantium quos earum illum nostrum obcaecati molestiae? Nesciunt amet voluptatum molestias suscipit nostrum architecto id, quae vero excepturi fugiat voluptatem dolore quis maiores hic nam, itaque consequatur tenetur possimus cum sapiente! Eveniet provident aspernatur, praesentium, cumque ut incidunt consequatur eos earum nisi ipsum facere beatae. Ad ab eaque, quidem obcaecati veritatis veniam fuga voluptates cum tempore reiciendis at excepturi, recusandae beatae in. Explicabo, labore sequi incidunt, est quasi perspiciatis quae quam unde quos quod eum magnam delectus modi consectetur nulla cumque odit beatae sapiente at, iste ex! Perferendis vitae facere, numquam quo qui modi maiores officiis at consectetur ipsa. Reprehenderit, dignissimos vero. Ab maiores dolore consequatur exercitationem quis laborum est aperiam eum voluptas, voluptatum suscipit dolorem minima a aut voluptates pariatur asperiores, commodi expedita nulla porro deleniti. Amet neque eius dignissimos saepe ipsa perferendis molestias, hic laborum delectus vero, distinctio provident corporis quidem impedit nihil! Fugit accusantium quo accusamus praesentium aliquam reiciendis quidem doloremque amet. Magni fugiat, placeat deserunt architecto ad exercitationem sint iure laudantium accusantium, eveniet, voluptatem nihil incidunt minus. Laboriosam asperiores facilis culpa minus a optio, repellendus, molestias eius aperiam quia at quis recusandae praesentium numquam? Laudantium, hic? Non suscipit ipsam culpa, dignissimos quis eveniet voluptates inventore, quaerat nobis voluptatum porro recusandae architecto aperiam, repellat amet necessitatibus molestias. Ipsa deserunt iusto molestiae placeat quod aspernatur alias natus nihil inventore quae quibusdam odit animi nam debitis eveniet, voluptate facilis et dolores sunt explicabo cumque esse ab itaque. Et maxime nobis molestias delectus eius tempore cum. Aut distinctio quisquam fugit atque quis? Ab alias ipsum tempora quibusdam sequi labore sit deserunt at, rerum, illo expedita rem dolore nam placeat recusandae quo nisi maxime saepe! Quae rerum aliquam optio sint ex cum pariatur molestiae esse perferendis voluptate temporibus nulla vel quos minus, cumque explicabo adipisci veniam necessitatibus nostrum consectetur? Animi modi incidunt laboriosam ex earum, temporibus, quae, nesciunt alias ratione sequi voluptatum! Veritatis id nam cupiditate, ad magnam optio odit eaque. Consectetur eligendi a nam, accusantium consequuntur voluptatem deserunt adipisci mollitia, saepe voluptatum facere fugiat molestiae tenetur quasi delectus voluptas. Quasi adipisci dolorum, a rem ea, at cumque pariatur dolorem ducimus sunt necessitatibus, odit quibusdam exercitationem aliquid. Minima aut delectus beatae suscipit. Vel non dolorum adipisci mollitia! Eum esse amet laborum autem rem aperiam, quae cumque, quibusdam corporis fuga nihil earum quod accusamus asperiores ducimus minus ut? Assumenda eveniet, cupiditate temporibus, hic officia sed rerum asperiores, veniam nemo magni suscipit excepturi id accusamus! Error similique consequuntur molestias, iure explicabo voluptatum eum perspiciatis provident veritatis dolorem impedit quod laborum ea mollitia repellendus, velit necessitatibus unde laboriosam officiis cum nihil fugiat fugit! Sapiente minus eligendi quam facere, natus velit ab quis vero aliquid consectetur nostrum nam hic. Cumque, laboriosam sunt dolore consectetur tempore molestias! Et fuga expedita inventore repellat minus odio, explicabo sapiente sit deleniti nihil ex accusamus sint! Eius eaque similique sint eveniet officiis, numquam fugit soluta vel maxime, itaque nulla excepturi quaerat. Explicabo voluptate, quidem voluptatibus animi est sequi atque asperiores aperiam rerum doloribus facere quod, consequatur error suscipit? Cumque, mollitia et repellendus dignissimos dolorum autem in quos voluptatibus iusto cum neque explicabo repellat vitae quod deleniti eligendi minus placeat ea aliquid beatae saepe, sint nostrum sit officiis. Consequatur minus blanditiis quasi rerum vel debitis sit reprehenderit, neque iusto quidem nam unde explicabo nisi numquam, maiores expedita laboriosam corrupti laudantium quis earum! Obcaecati repudiandae praesentium magnam at cum nemo deserunt quibusdam porro voluptatem temporibus! Ad at quod quisquam illum quasi autem consectetur earum fuga necessitatibus. Quisquam iusto dignissimos quo obcaecati tempore aliquid iure nulla repellendus sint quidem ipsum non maxime minima, vero similique! Corporis voluptas blanditiis quia culpa commodi. Consequuntur ipsam quas quod, libero assumenda ab quae fugiat. Quod commodi ipsa qui necessitatibus cumque, atque inventore maxime aspernatur tempore nulla illum obcaecati, architecto voluptas aliquid explicabo ab ullam amet! Autem harum, totam facere, amet ad tenetur ipsam quia magnam doloremque dolorum laborum vel maxime dignissimos possimus asperiores commodi? Quas id obcaecati mollitia. Iste rem explicabo amet beatae cumque facilis error excepturi, qui a tempore praesentium nostrum totam aperiam commodi.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+<?php
+include "services/conn.php";
+
+// Mengatur zona waktu ke Waktu Indonesia Barat (WIB)
+date_default_timezone_set("Asia/Jakarta"); 
+
+$query = mysqli_query($conn, "
+SELECT
+    p.*,
+    u.nama,
+    GROUP_CONCAT(m.nama SEPARATOR ', ') AS nama_menu
+FROM tb_pesanan AS p
+LEFT JOIN tb_user AS u ON p.pelayan_id = u.id
+LEFT JOIN tb_detail AS dp ON p.id = dp.pesanan_id
+LEFT JOIN tb_menu AS m ON dp.menu_id = m.id
+GROUP BY p.id
+ORDER BY p.id DESC
+");
+
+$result = [];
+while ($record = mysqli_fetch_assoc($query)) {
+    $result[] = $record;
+}
+
+$menu_query = mysqli_query($conn, "SELECT * FROM tb_menu WHERE stok > 0 ORDER BY nama");
+$menu_data = [];
+
+while($menu = mysqli_fetch_assoc($menu_query)){
+    $menu_data[] = $menu;
+}
+?>
+
+
+<div class="col-lg-9 mt-2">
+    <div class="card">
+        <div class="card-header">
+            Halaman Pesanan
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col d-flex justify-content-end">
+                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ModalTambahPesanan">Tambah Pesanan</button>
+                </div>
+            </div>
+            <!-- Modal Tambah Pesanan Baru -->
+            <div class="modal fade" id="ModalTambahPesanan" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog modal-xl modal-fullscreen-md-down">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h1 class="modal-title fs-5" id="exampleModalLabel">Tambah Pesanan Baru</h1>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                            <form class="needs-validation" novalidate action="services\input_order.php" method="POST">
+                                <div class="row">
+                                    <div class="col-lg-4">
+                                        <div class="form-floating mb-3">
+                                            <input type="text" class="form-control" id="floatingInput" placeholder="Kode Pesanan" name="kode_pesanan" value="<?php echo "ORD" . date("YmdHis") . rand(100, 999) ?>" readonly>
+                                            <label for="floatingInput">Kode Pesanan</label>
+                                            <div class="invalid-feedback">
+                                                Masukkan kode pesanan.
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <div class="form-floating mb-3">
+                                            <input type="text" class="form-control" id="floatingInput" name="waktu" placeholder="yyyy-MM-dd HH:mm:ss" value="<?php echo date("Y-m-d H:i:s") ?>" readonly>
+                                            <label for="floatingInput">Waktu</label>
+                                            <div class="invalid-feedback">
+                                                Masukkan waktu.
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <div class="form-floating mb-3">
+                                            <input type="text" class="form-control" id="floatingInput" name="pelayan" placeholder="Pelayan" value="<?php echo $_SESSION['pelayan'] ?>" readonly>
+                                            <label for="floatingInput">Pelayan</label>
+                                            <div class="invalid-feedback">
+                                                Masukkan pelayan.
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-lg-6">
+                                        <div class="form-floating mb-3">
+                                           <input type="text" class="form-control" id="floatingInput" name="pelanggan" placeholder="Pelanggan" required>
+                                            <label for="floatingInput">Pelanggan</label>
+                                            <div class="invalid-feedback">
+                                                Masukkan pelanggan.
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <div class="form-floating mb-3">
+                                           <input type="number" class="form-control" id="floatingInput" name="meja" placeholder="Meja" required>
+                                            <label for="floatingInput">Meja</label>
+                                            <div class="invalid-feedback">
+                                                Masukkan meja.
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <input type="hidden" name="pelayan_id" value="<?php echo $_SESSION['id_user'] ?>">
+                                <!-- TAMBAH PESANAN -->
+                                <div class="row mb-3">
+                                    <div class="col">
+                                        <h5>Detail Pesanan</h5>
+                                    </div>
+                                </div>
+                                <div class="row mb-3">
+                                    <div class="col-lg-5 mb-2">
+                                        <select id="menuSelect" class="form-select">
+                                            <option value="">Pilih Menu</option>
+                                            <?php foreach($menu_data as $menu){ ?>
+                                                <option
+                                                    value="<?= $menu['id'] ?>"
+                                                    data-harga="<?= $menu['harga'] ?>">
+                                                    <?= $menu['nama'] ?> -
+                                                    Rp <?= number_format($menu['harga']) ?>
+                                                </option>
+                                            <?php } ?>
+                                        </select>
+                                    </div>
+
+                                    <div class="col-lg-3 mb-2">
+                                        <input type="number"
+                                            id="qty"
+                                            min="1"
+                                            value="1"
+                                            class="form-control">
+                                    </div>
+
+                                    <div class="col-lg-2 mb-2">
+                                         <button type="button"
+                                                class="btn btn-success w-100"
+                                                onclick="tambahItem()">
+                                            Tambah
+                                        </button>
+                                    </div>
+                                </div>
+                                 <!-- END TAMBAH PESANAN -->
+                                <!-- DETAIL PESANAN -->
+                                <div class="table-responsive">
+                                    <table class="table table-bordered align-middle">
+                                        <thead>
+                                            <tr>
+                                                <th>Nama Menu</th>
+                                                <th>Harga</th>
+                                                <th width="120">Qty</th>
+                                                <th>Subtotal</th>
+                                                <th width="100">Aksi</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody id="detailBody">
+
+                                        </tbody>
+                                    </table>
+                                </div>
+                                 <!-- END DETAIL PESANAN -->
+                                <div class="row">
+                                    <div class="col-md-12 text-end">
+                                        <h5>
+                                            Total Pesanan :
+                                            Rp <span id="grandTotal">0</span>
+                                        </h5>
+
+                                        <input type="hidden"
+                                            name="total_pesanan"
+                                            id="total_pesanan">
+
+                                        <div id="detailInputs"></div>
+                                    </div>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                    <button type="submit" class="btn btn-primary" name="input_order_validate" value="12345">Save order</button>
+                                </div>
+                            </form>
+                        </div>
                     </div>
                 </div>
             </div>
+            <!-- Akhir Modal Tambah Pesanan Baru -->
+            <?php
+            if (empty($result)) {
+                echo "Data pesanan tidak ada.";
+            } else {
+            ?>
+                <div class="table-responsive">
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th scope="col">No</th>
+                                <th scope="col">Kode Order</th>
+                                <th scope="col">Waktu</th>
+                                <th scope="col">Pelanggan</th>
+                                <th scope="col">Meja</th>
+                                <th scope="col">Total Harga</th>
+                                <th scope="col">Pelayan</th>
+                                <th scope="col">Status Pesanan</th>
+                                <th scope="col">Aksi</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <?php
+                            $no = 1;
+                            foreach ($result as $row) {
+                            ?>
+                                <tr>
+                                    <th scope="row"><?php echo $no++ ?></th>
+                                    <td><?php echo $row['kode_pesanan'] ?></td>
+                                    <td><?php echo $row['waktu'] ?></td>
+                                    <td><?php echo $row['nama_pelanggan'] ?></td>
+                                    <td><?php echo $row['meja'] ?></td>
+                                    <td>Rp<?=number_format($row['total'], 0, ',', '.')?></td>
+                                    <td><?php echo $row['nama'] ?></td>
+                                    <td>
+                                        <?php
+                                        if ($row['status_pesanan'] == 0) {
+                                            echo '<span class="badge bg-secondary">Diproses</span>';
+                                        } else if ($row['status_pesanan'] == 1) {
+                                            echo '<span class="badge bg-success">Selesai</span>';
+                                        } else {
+                                            echo '<span class="badge bg-danger">Dibatalkan</span>';
+                                        }
+                                        ?>
+                                    </td>
+                                    <td>
+                                        <div class="d-flex">
+                                            <button class="btn btn-warning btn-sm me-1" onclick="location.href='detail?id=<?php echo $row['id'] ?>'"><i class="bi bi-pencil-square"></i></button>
+                                        </div>
+                                    </td>
+                                </tr>
+                            <?php
+                            }
+                            ?>
+                        </tbody>
+                    </table>
+                </div>
+            <?php
+            }
+            ?>
+        </div>
+    </div>
+</div>
+<script>
+    // Example starter JavaScript for disabling form submissions if there are invalid fields
+    (() => {
+        'use strict'
+
+        // Fetch all the forms we want to apply custom Bootstrap validation styles to
+        const forms = document.querySelectorAll('.needs-validation')
+
+        // Loop over them and prevent submission
+        Array.from(forms).forEach(form => {
+            form.addEventListener('submit', event => {
+                if (!form.checkValidity()) {
+                    event.preventDefault()
+                    event.stopPropagation()
+                }
+
+                form.classList.add('was-validated')
+            }, false)
+        })
+    })()
+</script>

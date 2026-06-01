@@ -11,6 +11,8 @@
 
         if($result) {
             $_SESSION["email_cafe"] = $email;
+            $_SESSION["id_user"] = $result['id'];
+            $_SESSION["pelayan"] = $result['nama'];
             $_SESSION["level_cafe"] = $result['level'];
             header('location:../home');
         } else { ?>

@@ -23,10 +23,7 @@
                         <li class="nav-item">
                             <a class="nav-link ps-2 <?php echo (isset($_GET['x']) && $_GET['x']=='order') ? 'active link-light' : 'link-dark'; ?> " href="order"><i class="bi bi-cart4"></i> Order</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link ps-2 <?php echo (isset($_GET['x']) && $_GET['x']=='customer') ? 'active link-light' : 'link-dark'; ?>" href="customer"><i class="bi bi-people-fill"></i> Customer</a>
-                        </li>
-                        <?php if ($result['level'] == 1) { ?>
+                        <?php if ($_SESSION["level_cafe"] == 1) { ?>
                         <li class="nav-item">
                             <a class="nav-link ps-2 <?php echo (isset($_GET['x']) && $_GET['x']=='report') ? 'active link-light' : 'link-dark'; ?>" href="report"><i class="bi bi-journal-text"></i> Report</a>
                         </li>

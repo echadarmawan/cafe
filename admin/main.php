@@ -5,8 +5,11 @@
     }
 
     include "services/conn.php";
-    $query = mysqli_query($conn, "SELECT * FROM tb_user WHERE email = '$_SESSION[email_cafe]'");
-    $result = mysqli_fetch_array($query);
+    // $query = mysqli_query($conn, "SELECT * FROM tb_user WHERE email = '$_SESSION[email_cafe]'");
+    // $result = mysqli_fetch_array($query);
+    // var_dump($_SESSION['email_cafe']);
+    // var_dump($_SESSION['pelayan']);
+    // var_dump($_SESSION['id_user']);
 ?>
 
 <!DOCTYPE html>
@@ -19,6 +22,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="https://unpkg.com">
     <script src="https://unpkg.com"></script>
+    <script src="../js/script.js"></script>
 </head>
 <body>
     <!-- HEADER -->
